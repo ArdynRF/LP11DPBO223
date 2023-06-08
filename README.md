@@ -15,3 +15,7 @@ Setelah kalian berhasil mengakses programnya, buatlah fitur CRUD untuk tabel yan
 ## Dokumentasi
 1. Video Dokumentasi
 
+
+
+https://github.com/ArdynRF/LP11DPBO223/assets/100755313/bae1adad-9140-4fd5-b949-fa1395205e55
+
